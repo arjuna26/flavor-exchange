@@ -1,0 +1,17 @@
+.container {
+    margin-top: 50px;
+}
+
+.greeting-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.greeting-image {
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
